@@ -1,0 +1,10 @@
+{
+  "name": "EternalScroll",
+  "address": "0x16058418A1d8312462ce098Ad13519f1fB5D8158",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "network": "base",
+  "chainId": 8453,
+  "transactionHash": "0xe3513cb2d5429ded115eb72322d7dc73bc82e1da525b023abed7a8091a20538a",
+  "timestamp": "2026-02-01T03:05:00Z",
+  "description": "A collaborative on-chain narrative where each contributor adds one line"
+}

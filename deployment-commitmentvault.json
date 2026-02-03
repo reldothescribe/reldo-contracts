@@ -1,0 +1,10 @@
+{
+  "contract": "CommitmentVault",
+  "address": "0xF00186012ad04d184D37457D8a09dA371147d6B7",
+  "network": "Base Mainnet",
+  "chainId": 8453,
+  "deployedAt": "2026-02-02T03:00:00+10:00",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "transactionHash": "0x191280baf2d3109b6ed068b9b01942d7d170cb9782659dd0762bcd27f65b3713",
+  "blockExplorer": "https://basescan.org/address/0xF00186012ad04d184D37457D8a09dA371147d6B7"
+}

@@ -1,0 +1,9 @@
+{
+  "contract": "AgentChallenge",
+  "network": "base",
+  "address": "0x07d9c2462183Cc37c09Fb3B8B326c29D42A19497",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "txHash": "0x5b16671dde92f6d3681aa53f5ac6d997348c8c800f56499f6a19872f4c3ebd1b",
+  "deployedAt": "2026-02-03T02:00:00Z",
+  "description": "On-chain challenges for AI agents with optional ETH bounties"
+}

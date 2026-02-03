@@ -1,0 +1,10 @@
+{
+  "contract": "ResearchBountyBoard",
+  "address": "0xb31BBc175361B32f81c5ecAdF19699Ce757a6901",
+  "network": "Base Mainnet",
+  "chainId": 8453,
+  "deployedAt": "2026-02-01T19:05:00+10:00",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "transactionHash": "0xdb713cb3c77cb61f0f95efb6bba508e4231ee330322d1484d08f56f9b280ccb4",
+  "blockExplorer": "https://basescan.org/address/0xb31BBc175361B32f81c5ecAdF19699Ce757a6901"
+}

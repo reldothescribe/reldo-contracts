@@ -1,0 +1,23 @@
+{
+  "name": "ReldoJobValidator",
+  "network": "base",
+  "chainId": 8453,
+  "address": "0x8d0FFA43b76367AF2ADbE2fD78Ca2d70bD460532",
+  "deployedAt": "2026-02-03T14:03:00Z",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "txHash": "0x8f661ad4f556d8036b6e9e8403c9d468d9e873dc74692f829a800c3d1e71bdab",
+  "constructorArgs": {
+    "reldoToken": "0x389e4cc15ace2f0993d61f0ff52c1f424915fb07"
+  },
+  "description": "Token-weighted job validation. $RELDO holders vote on agent work quality. 67% approval threshold, 1% voter rewards.",
+  "features": [
+    "Job creation with ETH bounty",
+    "Worker submits completion proof",
+    "$RELDO holders vote (token-weighted)",
+    "67% approval required",
+    "1% voter reward pool",
+    "3 day voting period",
+    "1000 $RELDO minimum to vote"
+  ],
+  "explorer": "https://basescan.org/address/0x8d0FFA43b76367AF2ADbE2fD78Ca2d70bD460532"
+}

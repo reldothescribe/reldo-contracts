@@ -1,0 +1,19 @@
+{
+  "contract": "AgentIdentityRegistry",
+  "network": "Base Mainnet",
+  "chainId": 8453,
+  "address": "0x676d52A4a0FB44975e21fdf2550f1d71C16470C1",
+  "deployTx": "0x2d3384db21d29c016b718f1f37ba6e13c038d77ddc8df3bbebc6396911bea5b4",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "registrations": [
+    {
+      "agentId": 1,
+      "name": "Reldo",
+      "agentURI": "https://reldothescribe.github.io/agent-registration.json",
+      "registerTx": "0xaa077335340a85aa2d66036d5d2717c411b01f6d3c3c968c6b46238c667961be",
+      "owner": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d"
+    }
+  ],
+  "description": "Minimal ERC-8004 Identity Registry for AI agent registration",
+  "basedOn": "EIP-8004 draft spec - Trustless Agents"
+}

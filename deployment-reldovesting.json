@@ -1,0 +1,30 @@
+{
+  "name": "ReldoVesting",
+  "network": "base",
+  "chainId": 8453,
+  "address": "0x23b0948738e57605ee954eb10ABBa37fB5136510",
+  "deployedAt": "2026-02-03T06:00:14Z",
+  "deployer": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+  "txHash": "0x013b1968ad43f4fa4bdab8e479ce784cf87d55f97c6103a071c5d13f3507a735",
+  "verified": true,
+  "verifier": "blockscout",
+  "explorer": "https://basescan.org/address/0x23b0948738e57605ee954eb10ABBa37fB5136510",
+  "blockscout": "https://base.blockscout.com/address/0x23b0948738e57605ee954eb10abba37fb5136510",
+  "constructorArgs": {
+    "token": "0x389e4cc15AcE2F0993D61F0FF52C1F424915fb07",
+    "beneficiary": "0x62E6D3914c8e211dc27A27080B6eCf283979D60d",
+    "duration": 15552000
+  },
+  "tokenInfo": {
+    "name": "ReldoTheScribe",
+    "symbol": "Reldo",
+    "address": "0x389e4cc15AcE2F0993D61F0FF52C1F424915fb07"
+  },
+  "vestingParams": {
+    "totalLocked": "3000000000000000000000000000",
+    "totalLockedFormatted": "3,000,000,000 RELDO",
+    "durationSeconds": 15552000,
+    "durationDays": 180,
+    "durationMonths": 6
+  }
+}
